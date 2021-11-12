@@ -1,0 +1,9 @@
+﻿  Assignment1.cpp
+D:\Desktop\GUC\graphics\GUC_312_55_12202_2021-10-06T11_24_59\OpenGL2DTemplate\Assignment1.cpp(205,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\GUC\graphics\GUC_312_55_12202_2021-10-06T11_24_59\OpenGL2DTemplate\Assignment1.cpp(274,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\GUC\graphics\GUC_312_55_12202_2021-10-06T11_24_59\OpenGL2DTemplate\Assignment1.cpp(277,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\GUC\graphics\GUC_312_55_12202_2021-10-06T11_24_59\OpenGL2DTemplate\Assignment1.cpp(279,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\GUC\graphics\GUC_312_55_12202_2021-10-06T11_24_59\OpenGL2DTemplate\Assignment1.cpp(284,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\GUC\graphics\GUC_312_55_12202_2021-10-06T11_24_59\OpenGL2DTemplate\Assignment1.cpp(290,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Assignment1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> D:\Desktop\GUC\graphics\GUC_312_55_12202_2021-10-06T11_24_59\OpenGL2DTemplate\Debug\OpenGL2DTemplate.exe
